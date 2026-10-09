@@ -31,6 +31,7 @@ real-world applications. 🚀
 - 💻 Interested in **Software Development & Backend Development**
 - 🐍 Currently strengthening my **Python & DSA** skills
 - 📱 Learning and building applications with **Flutter**
+- 💻 Exploring **JavaScript**, one line of code at a time. 
 - 🤖 Exploring **AI-powered applications**
 - 🗄️ Working with **Django & PostgreSQL**
 - 🛠️ I enjoy building practical projects that solve real problems
@@ -218,6 +219,12 @@ Backend Development
    ├── Django REST Framework
    └── PostgreSQL
 
+Frontend Development
+  ├── Html
+  ├── CSS
+  ├──Javascript
+  └── React Framework
+
 Application Development
    ├── Flutter
    └── API Integration
@@ -241,7 +248,7 @@ development and AI.
 
 </p> <br> <!-- ===================== CONNECT ===================== -->
 📫 Connect With Me
-<p align="center"> <a href="https://github.com/Benesha07"> <img src="https://img.shields.io/badge/GitHub-Benesha07-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> <br> <!-- ===================== FOOTER ===================== --> <div align="center">
+<p align="center"> <a href="https://github.com/Benesha07"> <img src="https://img.shields.io/badge/GitHub-Benesha07-181717?style=for-the-badge&logo=github"/> </a> <a href="www.linkedin.com/in/benesha-mercy-ramesh-ab6745379"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> <br> <!-- ===================== FOOTER ===================== --> <div align="center">
 💜 Thanks for visiting my profile!
   
 ```text 
